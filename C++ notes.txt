@@ -1,4 +1,4 @@
-C++ Notes : 
+C++ Notes : V1.1 
 ------------------------------------
 youtube:    "How the C++ Linker Works" 
 
