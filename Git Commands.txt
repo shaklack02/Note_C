@@ -1,0 +1,22 @@
+
+Git clone url         // to clone the repository 
+
+###then if changed soemthing need to:
+
+git add.    or     git add * 
+
+###to go back:
+
+git reset.
+
+###then commit:
+
+git commit -m " comiit here " 
+
+###then push:
+
+git push 
+
+###to update just:
+
+git pull
